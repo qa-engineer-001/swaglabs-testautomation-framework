@@ -1,0 +1,194 @@
+2026-06-01 12:30:47 INFO  base.BaseTest - Report setup started
+2026-06-01 12:30:48 ERROR listeners.TestListener - Test failed: automationFlow
+2026-06-01 12:40:05 INFO  base.BaseTest - Report setup started
+2026-06-01 12:40:05 ERROR listeners.TestListener - Test failed: automationFlow
+2026-06-01 12:43:38 INFO  base.BaseTest - Report setup started
+2026-06-01 12:43:38 ERROR listeners.TestListener - Test failed: automationFlow
+2026-06-01 12:46:40 INFO  base.BaseTest - Report setup started
+2026-06-01 12:46:40 ERROR listeners.TestListener - Test failed: automationFlow
+2026-06-01 12:48:41 INFO  base.BaseTest - Report setup started
+2026-06-01 12:48:41 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 12:48:46 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 12:48:47 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 12:48:47 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - User: standard_user Logged in
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Validated number of items in Cart
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Validated products in Cart: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Proceed to Checkout
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Filled checkout information and proceeded
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Validated number of items in Final Overview
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Validated products in Final Overview: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Clicked Finish
+2026-06-01 12:48:48 INFO  tests.SwagLabsFlow - Order confirmation validated successfully
+2026-06-01 12:48:48 INFO  listeners.TestListener - Test passed: automationFlow
+2026-06-01 12:48:49 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 12:48:49 INFO  base.BaseTest - Flushing report...
+2026-06-01 12:53:53 INFO  base.BaseTest - Report setup started
+2026-06-01 12:53:53 ERROR listeners.TestListener - Test failed: automationFlow
+2026-06-01 12:58:27 INFO  base.BaseTest - Report setup started
+2026-06-01 12:58:27 ERROR listeners.TestListener - Test failed: automationFlow
+2026-06-01 13:00:44 INFO  base.BaseTest - Report setup started
+2026-06-01 13:00:45 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:00:47 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:00:49 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:00:49 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:00:49 INFO  tests.SwagLabsFlow - User: standard_user Logged in
+2026-06-01 13:00:49 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:00:49 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:00:49 INFO  tests.SwagLabsFlow - Validated number of items in Cart
+2026-06-01 13:00:49 INFO  tests.SwagLabsFlow - Validated products in Cart: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:00:50 INFO  tests.SwagLabsFlow - Proceed to Checkout
+2026-06-01 13:00:50 INFO  tests.SwagLabsFlow - Filled checkout information and proceeded
+2026-06-01 13:00:50 INFO  tests.SwagLabsFlow - Validated number of items in Final Overview
+2026-06-01 13:00:50 INFO  tests.SwagLabsFlow - Validated products in Final Overview: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:00:50 INFO  tests.SwagLabsFlow - Clicked Finish
+2026-06-01 13:00:50 INFO  tests.SwagLabsFlow - Order confirmation validated successfully
+2026-06-01 13:00:50 INFO  listeners.TestListener - Test passed: automationFlow
+2026-06-01 13:00:50 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:00:50 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:00:51 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:00:52 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:00:52 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:00:52 INFO  tests.SwagLabsFlow - User: problem_user Logged in
+2026-06-01 13:00:53 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:00:53 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:00:53 WARN  listeners.TestListener - Test skipped: automationFlow
+2026-06-01 13:00:53 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:00:53 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:00:54 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:00:54 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:00:54 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:00:55 INFO  tests.SwagLabsFlow - User: problem_user Logged in
+2026-06-01 13:00:55 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:00:55 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:00:55 WARN  listeners.TestListener - Test skipped: automationFlow
+2026-06-01 13:00:55 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:00:55 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:00:56 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:00:57 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:00:57 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:00:57 INFO  tests.SwagLabsFlow - User: problem_user Logged in
+2026-06-01 13:00:57 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:00:57 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:00:57 ERROR listeners.TestListener - Test failed: automationFlow
+2026-06-01 13:00:57 ERROR base.BaseTest - Test failed: automationFlow
+2026-06-01 13:00:57 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:00:58 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:00:59 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:00:59 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:01:04 INFO  tests.SwagLabsFlow - User: performance_glitch_user Logged in
+2026-06-01 13:01:04 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:01:04 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:01:04 INFO  tests.SwagLabsFlow - Validated number of items in Cart
+2026-06-01 13:01:04 INFO  tests.SwagLabsFlow - Validated products in Cart: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:01:04 INFO  tests.SwagLabsFlow - Proceed to Checkout
+2026-06-01 13:01:05 INFO  tests.SwagLabsFlow - Filled checkout information and proceeded
+2026-06-01 13:01:05 INFO  tests.SwagLabsFlow - Validated number of items in Final Overview
+2026-06-01 13:01:05 INFO  tests.SwagLabsFlow - Validated products in Final Overview: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:01:05 INFO  tests.SwagLabsFlow - Clicked Finish
+2026-06-01 13:01:05 INFO  tests.SwagLabsFlow - Order confirmation validated successfully
+2026-06-01 13:01:05 INFO  listeners.TestListener - Test passed: automationFlow
+2026-06-01 13:01:05 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:01:05 INFO  base.BaseTest - Flushing report...
+2026-06-01 13:04:21 INFO  base.BaseTest - Report setup started
+2026-06-01 13:04:22 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:04:24 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:04:24 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:04:24 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - User: standard_user Logged in
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - Validated number of items in Cart
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - Validated products in Cart: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - Proceed to Checkout
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - Filled checkout information and proceeded
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - Validated number of items in Final Overview
+2026-06-01 13:04:25 INFO  tests.SwagLabsFlow - Validated products in Final Overview: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:04:26 INFO  tests.SwagLabsFlow - Clicked Finish
+2026-06-01 13:04:26 INFO  tests.SwagLabsFlow - Order confirmation validated successfully
+2026-06-01 13:04:26 INFO  listeners.TestListener - Test passed: automationFlow
+2026-06-01 13:04:26 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:04:26 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:04:27 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:04:27 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:04:27 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:04:28 INFO  tests.SwagLabsFlow - User: problem_user Logged in
+2026-06-01 13:04:28 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:04:28 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:04:28 WARN  listeners.TestListener - Test skipped: automationFlow
+2026-06-01 13:04:28 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:04:28 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:04:29 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:04:29 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:04:29 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:04:30 INFO  tests.SwagLabsFlow - User: problem_user Logged in
+2026-06-01 13:04:30 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:04:30 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:04:30 WARN  listeners.TestListener - Test skipped: automationFlow
+2026-06-01 13:04:30 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:04:30 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:04:31 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:04:31 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:04:31 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:04:32 INFO  tests.SwagLabsFlow - User: problem_user Logged in
+2026-06-01 13:04:32 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:04:32 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:04:32 ERROR listeners.TestListener - Test failed: automationFlow
+2026-06-01 13:04:32 ERROR base.BaseTest - Test failed: automationFlow
+2026-06-01 13:04:32 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:04:33 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:04:34 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:04:34 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:04:39 INFO  tests.SwagLabsFlow - User: performance_glitch_user Logged in
+2026-06-01 13:04:39 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:04:39 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:04:39 INFO  tests.SwagLabsFlow - Validated number of items in Cart
+2026-06-01 13:04:39 INFO  tests.SwagLabsFlow - Validated products in Cart: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:04:39 INFO  tests.SwagLabsFlow - Proceed to Checkout
+2026-06-01 13:04:40 INFO  tests.SwagLabsFlow - Filled checkout information and proceeded
+2026-06-01 13:04:40 INFO  tests.SwagLabsFlow - Validated number of items in Final Overview
+2026-06-01 13:04:40 INFO  tests.SwagLabsFlow - Validated products in Final Overview: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:04:40 INFO  tests.SwagLabsFlow - Clicked Finish
+2026-06-01 13:04:40 INFO  tests.SwagLabsFlow - Order confirmation validated successfully
+2026-06-01 13:04:40 INFO  listeners.TestListener - Test passed: automationFlow
+2026-06-01 13:04:40 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:04:40 INFO  base.BaseTest - Flushing report...
+2026-06-01 13:12:52 INFO  base.BaseTest - Report setup started
+2026-06-01 13:12:53 INFO  utils.DBReader - DB Connected Successfully
+2026-06-01 13:12:53 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:12:55 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:12:56 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:12:56 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:12:56 INFO  tests.SwagLabsFlow - User: standard_user Logged in
+2026-06-01 13:12:56 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:12:56 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:12:56 INFO  tests.SwagLabsFlow - Validated number of items in Cart
+2026-06-01 13:12:56 INFO  tests.SwagLabsFlow - Validated products in Cart: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:12:57 INFO  tests.SwagLabsFlow - Proceed to Checkout
+2026-06-01 13:12:57 INFO  tests.SwagLabsFlow - Filled checkout information and proceeded
+2026-06-01 13:12:57 INFO  tests.SwagLabsFlow - Validated number of items in Final Overview
+2026-06-01 13:12:57 INFO  tests.SwagLabsFlow - Validated products in Final Overview: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:12:57 INFO  tests.SwagLabsFlow - Clicked Finish
+2026-06-01 13:12:57 INFO  tests.SwagLabsFlow - Order confirmation validated successfully
+2026-06-01 13:12:57 INFO  listeners.TestListener - Test passed: automationFlow
+2026-06-01 13:12:57 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:12:57 INFO  base.BaseTest - Starting test: automationFlow
+2026-06-01 13:12:58 INFO  base.BaseTest - Browser launched: chrome
+2026-06-01 13:12:58 INFO  base.BaseTest - URL navigated to: https://www.saucedemo.com/
+2026-06-01 13:12:58 INFO  listeners.TestListener - Test started: automationFlow
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - User: performance_glitch_user Logged in
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Products selected to Cart
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Navigated to Cart
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Validated number of items in Cart
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Validated products in Cart: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Proceed to Checkout
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Filled checkout information and proceeded
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Validated number of items in Final Overview
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Validated products in Final Overview: Sauce Labs Backpack, Sauce Labs Bolt T-Shirt
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Clicked Finish
+2026-06-01 13:13:04 INFO  tests.SwagLabsFlow - Order confirmation validated successfully
+2026-06-01 13:13:04 INFO  listeners.TestListener - Test passed: automationFlow
+2026-06-01 13:13:04 INFO  base.BaseTest - Test passed: automationFlow
+2026-06-01 13:13:05 INFO  base.BaseTest - Flushing report...
